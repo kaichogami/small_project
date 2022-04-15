@@ -6,7 +6,7 @@ Second to write the documentation for all work involved to complete this task in
 
 Steps:
 * Clone the repository in to your local computer.
-* For the reposiory in your github account.
+* Fork the reposiory in your github account.
 * Create a new branch.
 * Make the required changes in the branch.
 * Commit your changes.

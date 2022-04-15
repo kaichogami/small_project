@@ -11,7 +11,7 @@ Steps:
 * Make the required changes in the branch.
 * Commit your changes.
 * Push the changes to your forked reposiotry.
-* Create pull request in my repository.
+* Create pull request in my repository(https://github.com/kaichogami/small_project).
 
 The documentation should have all the steps required to complete this task.
 '''

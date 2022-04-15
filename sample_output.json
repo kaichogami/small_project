@@ -1,0 +1,19 @@
+{
+    "restaurants" : [
+        {
+                "name" : "Hauz Khas Social",
+                "id": "308322",
+                "cuisines": "Continental, American, Asian, North Indian",
+                "rating" : "4.3",
+                "city": "bangalore"
+        },
+        {
+            "name" : "Bombay Brasserie",
+            "id": "18407918",
+            "city": "bombay",
+            "cuisines": "Continental, American, Asian, North Indian",
+            "rating" : "4.3"
+        }
+    ]
+
+}

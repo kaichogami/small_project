@@ -14,3 +14,5 @@ Steps:
 * Create pull request in my repository(https://github.com/kaichogami/small_project).
 
 The documentation should have all the steps required to complete this task.
+
+### Testing
